@@ -1,6 +1,6 @@
 {
   "name": "dev-cli",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Developer productivity CLI tool built with Node.js",
   "type": "module",
   "bin": {
@@ -29,7 +29,6 @@
   },
   "devDependencies": {
     "@vitest/coverage-v8": "^4.1.0",
-    "jest": "^29.7.0",
     "vitest": "^4.1.0"
   },
   "engines": {
